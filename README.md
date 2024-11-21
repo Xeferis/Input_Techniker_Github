@@ -1,6 +1,6 @@
 # Input_Techniker_Github
 
-## Phase 1
+## Phase 1 (duration: 2h)
 
 - Wiederholung GIT
   -  Funktionsweise
@@ -15,7 +15,7 @@
   - Bekommen von Aktualisierungen
   - Überprüfen von Lokalendaten
 
-## Phase 2
+## Phase 2 (duration: 2h)
 
 - Wiederholung GitHub
 - Wiederholung GIT
